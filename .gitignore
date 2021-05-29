@@ -1,0 +1,13 @@
+target/
+.idea/
+*.setting
+*.classpath
+.settings/
+*.project
+*.png
+.git/
+*.log
+/logs/
+bin/
+Screenshot/
+.DS_Store
